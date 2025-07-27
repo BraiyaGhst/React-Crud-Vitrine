@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "mouse logitech g305",
+      "price": 261.5,
+      "image": "https://www.logitechstore.com.br/media/catalog/product/cache/105e6f420716e0751863c4b81f527d17/l/o/logitech_c.png",
+      "id": "6d58"
+    },
+    {
+      "name": "Fones Sony WH-1000XM4",
+      "price": 280.9,
+      "image": "https://images4.kabum.com.br/produtos/fotos/sync_mirakl/525604/Fone-de-Ouvido-Qcy-H3-Anc-Cancelamento-De-Ru-do-Adaptativo-Bluetooth-5-3-Multiponto-Bateria-60h_1728745556_gg.jpg",
+      "id": "dbbf"
+    },
+    {
+      "name": "Console Nintendo Switch",
+      "price": 2240.9,
+      "image": "https://images9.kabum.com.br/produtos/fotos/magalu/134589/Nintendo-Switch-32GB-HAC-001-01-1-Controle-Joy-Con_1657132503_gg.jpg",
+      "id": "9ccd"
+    }
+  ]
+}
